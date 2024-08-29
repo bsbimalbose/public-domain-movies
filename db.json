@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "movies": [
+    {
+      "id": 1,
+      "title": "Big Buck Bunny 2008",
+      "magnet": "magnet:?xt=urn:btih:DD8255ECDC7CA55FB0BBF81323D87062DB1F6D1C&dn=Big+Buck+Bunny.2008"
+    },
+    {
+      "id": 2,
+      "title": "Big Buck Bunny 2008",
+      "magnet": "magnet:?xt=urn:btih:2F24D03EAB998CA672B8C1EF567A184609236C02&dn=Big.Buck.Bunny.2008.x264.BDRip.1080p.mkv"
+    }
+  ]
 }
